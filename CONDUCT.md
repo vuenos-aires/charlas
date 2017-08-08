@@ -28,4 +28,4 @@ Si usted está siendo acosado, u observa que alguien está siendo acosado, o tie
 
 Esperamos que los participantes sigan estas reglas en el transcurso del evento y de eventos sociales relacionados.
 
-> Este código de conducta fue adaptado del [Código de Conducat de Meetup.js]( https://github.com/meetupjs-ar/charlas/blob/master/CONDUCT.md)
+> Este código de conducta fue adaptado del [Código de Conducta de Meetup.js]( https://github.com/meetupjs-ar/charlas/blob/master/CONDUCT.md)
