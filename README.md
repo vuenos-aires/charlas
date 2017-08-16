@@ -1,7 +1,7 @@
 # Charlas para Vuenos Aires
 Espacio para proponer las charlas a dar en los meetups de [Vuenos Aires](http://www.meetup.com/vuenos-aires)
 
-> *Este repo esta basado en el de [Meetup.js](https://github.com/banodejs/charlas)*
+> *Este repo esta basado en el de [Meetup.js](https://github.com/meetupjs-ar/charlas)*
 
 ## ℹ️ Formato de las charlas
 Cada charla tiene una duración de 30 minutos. Sin embargo, se pueden evaluar excepciones.
