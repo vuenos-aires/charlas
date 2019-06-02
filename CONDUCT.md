@@ -11,8 +11,8 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
 [![@ianaya89](https://s.gravatar.com/avatar/6c3e7ef20801b4b967dc1643f63d6233?s=80)](https://github.com/ianaya89) | Ignacio Anaya | [@ianaya89](https://twitter.com/ianaya89) | ignacio.anaya89@gmail.com
-![@camilunghi](https://pbs.twimg.com/profile_images/902358873809580032/X9gor_AT_80x80.jpg) | Camila Cepeda | [@camilunghi](https://twitter.com/camilunghi) | -
-[![@M_Blayer](https://pbs.twimg.com/profile_images/805429203655098368/ZTaTvKCs_80x80.jpg)](https://github.com/mblayer) | Matias Blayer | [@ianaya89](https://twitter.com/M_Blayer) | blayermatias@gmail.com
+![@puribey](https://pbs.twimg.com/profile_images/904922253250486272/UdKqi7HU_80x80.jpg) | Priscila Bey | [@puribey](https://twitter.com/puribey) | -
+[![@M_Blayer](https://pbs.twimg.com/profile_images/1113945993635082241/PPLI38At_80x80.jpg)](https://github.com/mblayer) | Matias Blayer | [@m_blayer](https://twitter.com/M_Blayer) | blayermatias@gmail.com
 
 ## Version Rapida
 
