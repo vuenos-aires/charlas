@@ -12,9 +12,9 @@ Es fácil. Abrí un [issue](https://github.com/vuenos-aires/charlas/issues) para
 Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá un comentario en el issue y nos mantendremos en contacto.
 
 ## 🗒 Temas de Interes
-Cualquier tema relacionado a Vue.js nos interesa aunque no cerramos las puertas a otras tecnologias, herramientas o temas intereses general relacionados con programación y JavaScript.
+Cualquier tema relacionado a Vue.js nos interesa aunque no cerramos las puertas a otras tecnologías, herramientas o temas relacionados con programación y JavaScript.
 
-Aca tenes algunas sugerencias:
+Acá tenes algunas sugerencias:
 
 * Mobile: quasar, weex, etc
 * UI: muse-ui, element io, etc
